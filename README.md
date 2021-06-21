@@ -2,8 +2,7 @@
 Responda as questões abaixo de forma clara e objetiva, quando necessário pode ser adicionado uma documentação de apoio (read-me).
 **1.	Gherkin - montar um mapa mental e criar cenários de um fluxo de compra
 (Ferramenta de elaboração do mapa de livre escolha, anexar no formato de imagem)**
-Anexo: Mapa Mental
-Cenários de um fluxo de compras: 
+Anexo: Mapa Mental 
 1. Validação da interface inicial 	
 2. Validação das classificações de produto	
 3. Validaçao de Pesquisa dos Produtos	
@@ -39,7 +38,7 @@ URL: https://petstore.swagger.io/
 
 **3.	Estratégia de Testes para e-commerce - definir e escrever os primeiros passos/condução/tramitação dos testes em um e-commerce
 (e-commerce de livre escolha, sugestão verificar no site da compasso o portifólio de clientes e escolher um deles)**
-Anexo: Caso de testes
+Anexo: Caso de testes (OBS: No anexo de excel tem as abas "Fluxo de compras / Teste de Navegação e página de produto / Teste de Checkout) 
 
 
 **4.	Priorização de execução de testes
