@@ -36,8 +36,9 @@ URL: https://petstore.swagger.io/
 6) Cadastrei 5 usuários e 10 pets (5 dogs e 5 cats)
 7) Fiz a venda de 1 dog e 1 cat para cada usuário
 8) Mudei o status das ordens de venda de dogs para "delivered" e de cats para "approved"
-3.	Estratégia de Testes para e-commerce - definir e escrever os primeiros passos/condução/tramitação dos testes em um e-commerce
-(e-commerce de livre escolha, sugestão verificar no site da compasso o portifólio de clientes e escolher um deles)
+
+**3.	Estratégia de Testes para e-commerce - definir e escrever os primeiros passos/condução/tramitação dos testes em um e-commerce
+(e-commerce de livre escolha, sugestão verificar no site da compasso o portifólio de clientes e escolher um deles)**
 Anexo: Caso de testes
 
 
