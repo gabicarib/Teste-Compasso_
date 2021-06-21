@@ -4,25 +4,25 @@ Responda as questões abaixo de forma clara e objetiva, quando necessário pode 
 (Ferramenta de elaboração do mapa de livre escolha, anexar no formato de imagem)**
 Anexo: Mapa Mental
 Cenários de um fluxo de compras: 
-1	Validação da interface inicial 	
-2	Validação das classificações de produto	
-3	Validaçao de Pesquisa dos Produtos	
-4	Validaçao das descrições de venda de produto	
-5	Validação de dados de estoques de produto	
-6	Validação de Inclusão de Produtos na Sacola	
-7	Validação do Calculo de Frete	
-8	Validação de informações de endereço	
-9	Validação de exclusão de produtos na sacola	
-10	Validação de finalização de compra 	
-11	Validação de continuação de compra	
-12	Validação de Cadastro de usuário 	
-13	Validação de Login e senha do usuário	
-14	Validação de login com Facebook e Google	
-15	Validação de Tipos de Pagamentos 	
-16	Validação de formas de parcelamento	
-17	Validação de Comprovante de compras 	
-18	Validação de envio de confirmação de compra por email	
-19	Validação de Fluxo de Pedidos 	
+1. Validação da interface inicial 	
+2. Validação das classificações de produto	
+3. Validaçao de Pesquisa dos Produtos	
+4. Validaçao das descrições de venda de produto	
+5. Validação de dados de estoques de produto	
+6. Validação de Inclusão de Produtos na Sacola	
+7. Validação do Calculo de Frete	
+8. Validação de informações de endereço	
+9. Validação de exclusão de produtos na sacola	
+10. Validação de finalização de compra 	
+11. Validação de continuação de compra	
+12. Validação de Cadastro de usuário 	
+13. Validação de Login e senha do usuário	
+14. Validação de login com Facebook e Google	
+15. Validação de Tipos de Pagamentos 	
+16. Validação de formas de parcelamento	
+17. Validação de Comprovante de compras 	
+18. Validação de envio de confirmação de compra por email	
+19. Validação de Fluxo de Pedidos 	
 
 **2.	Testes de prático de APIs – Elaborar um fluxo de cadastro/validação de campos/ listar cadastro – utilizar APIs públicas 
 (anexar informações de como testar, json, url, etc...)**
@@ -43,11 +43,11 @@ Anexo: Caso de testes
 
 **4.	Priorização de execução de testes
 Explicar o processo de priorização da execução de testes, apontar a sequência e explicar por que foi escolhida.**
-R: 1) Análise de requisitos: Nesse caso não pude ter contato com o cliente para alinhar com ele as suas principais necessidades, mas coloquei meu ponto de vista técnico para simular as principais necessidades que um cliente teria. 
-    2) Realização do planejamento: Realizei o Planejamento para selecionar minhas metas e objetivos que seria o projeto do cliente e qual abordagem eu iria utilizar para os testes. 
-    3) Configuração do ambiente de teste: Verifiquei quais as arquiteturas iria utilizar para configurar o ambiente e verifiquei quais seriam os requisitos. 
-    4) Implementação: Identifiquei, evidenciei, desenvolvi, finalizei, implementei e priorizei os casos de testes. Executei os procedimentos de testes baseado em priorização. Poderia identificar defeitos e nesse caso reportaria o defeito, refaria o teste, realizaria o teste de regressão. 
-    5) Encerramento: Chequei se tudo que foi planejado foi entregue. Evidenciei o resultado. Fecharia os incidentes e relatórios caso fossem abertos. A partir desse ciclo verifiquei o que poderia ser melhorado para a maturidade de um futuro projeto. 
+1. Análise de requisitos: Nesse caso não pude ter contato com o cliente para alinhar com ele as suas principais necessidades, mas coloquei meu ponto de vista técnico para simular as principais necessidades que um cliente teria. 
+2. Realização do planejamento: Realizei o Planejamento para selecionar minhas metas e objetivos que seria o projeto do cliente e qual abordagem eu iria utilizar para os testes. 
+3. Configuração do ambiente de teste: Verifiquei quais as arquiteturas iria utilizar para configurar o ambiente e verifiquei quais seriam os requisitos. 
+4. Implementação: Identifiquei, evidenciei, desenvolvi, finalizei, implementei e priorizei os casos de testes. Executei os procedimentos de testes baseado em priorização. Poderia identificar defeitos e nesse caso reportaria o defeito, refaria o teste, realizaria o teste de regressão. 
+5. Encerramento: Chequei se tudo que foi planejado foi entregue. Evidenciei o resultado. Fecharia os incidentes e relatórios caso fossem abertos. A partir desse ciclo verifiquei o que poderia ser melhorado para a maturidade de um futuro projeto. 
 
 **5.	KPIs importantes para os testes e-commerce
 Apontar quais são os KPIs mais importantes relacionados a testes em e-commerce.**
